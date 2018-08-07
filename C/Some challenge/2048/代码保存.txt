@@ -1,0 +1,4 @@
+while((index!=1)&&(numbers[0].value!=0||numbers[1].value!=0||numbers[2].value!=0||numbers[3].value!=0||numbers[4].value!=0||
+numbers[5].value!=0||numbers[6].value!=0||numbers[7].value!=0||numbers[8].value!=0||numbers[9].value!=0||numbers[10].value!=0
+||numbers[11].value!=0||numbers[12].value!=0||numbers[13].value!=0||numbers[14].value!=0||numbers[15].value!=0));
+}
